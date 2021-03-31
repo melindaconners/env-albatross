@@ -1,5 +1,6 @@
 ############################################################################
-# Download grids of SST data for Science Policy figure
+# Create Sci Pol figure:
+# Albatross tracks and SST contours El Nino vs La Nina vs 2100
 
 # SST Months: Dec 2009, Dec 2010
 # Add Forecasted SST for 2100
